@@ -1,0 +1,75 @@
+body {
+    background-image: url(../homework/pexels-\ firebackground.jpg);
+    background-color: #cccccc;
+    background-repeat: none;
+    background-size: cover;
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+nav {
+    font-size: 50px;
+    color: black;
+    background-color: rgb(221, 113, 11);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+.button {
+    height: 45px;
+    width: 30cm;
+    border-radius: 35%;
+    font-size: 35px;
+    color: white;
+    background-color: black;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-top: 50px;
+}
+
+#title {
+    padding-left: 100px;
+}
+
+.tarea {
+    padding-left: 50px;
+}
+h1  {
+    color:rgb(223, 142, 66); 
+}
+
+
+img {
+    padding-top: 10px;
+    padding-bottom: 25px;
+    width: 400px;
+}
+
+#spanId {
+    margin: 50px, 50px;
+    display: flex;
+    justify-content: center;
+}
+
+#thirdDiv {
+    background-color: rgb(221, 113, 11);
+    border: black solid 1cm;
+    color: black;
+    margin-top: 200px;
+    margin-left: 300px;
+    padding: 50px 50px;
+    height: 1300px;
+    width: 500px;
+}
+
+ul {
+    list-style: none;
+}
